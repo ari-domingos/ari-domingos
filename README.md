@@ -1,12 +1,10 @@
 <div align="center">
-  <!-- Banner de Onda no topo (Laranja Naruto Uzumaki) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6600&section=header&animation=twinkling" />
 </div>
 
-<h1 align="center">Olá, eu sou a Arielle Beatriz 👩🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Olá, eu sou Arielle Beatriz 👩🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <!-- Frase com efeito de digitação dinâmica (Laranja Vibrante) -->
   <a href="https://github.com/ari-domingos"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+ADS;Aprendendo%2C+evoluindo+e+construindo...;Um+projeto+de+cada+vez+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=FF6600"></a>
 </p>
 
